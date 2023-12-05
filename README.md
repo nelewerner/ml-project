@@ -7,11 +7,12 @@ available on [Kaggle](https://www.kaggle.com/datasets/truthisneverlinear/inner-s
 
 ---
 
---- Timeline of Project:
+Timeline of Project:  
 
 - 30.11.23 Project Proposal **Complete**  
 - 05.12.23 Project Proposal **Complete**  
 - *TBD* Preliminary Results  
 - 26.12.23 Project Presentation  
 - 15.01.24 Final Report Due  
+
 ---
